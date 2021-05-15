@@ -1,6 +1,6 @@
 # parentol
 
-#ScreenShots
+# Some Screen Shots
 
 
 ![Step 1 Start](https://user-images.githubusercontent.com/10241241/118360330-87a40400-b5a0-11eb-9191-86255f482047.png)

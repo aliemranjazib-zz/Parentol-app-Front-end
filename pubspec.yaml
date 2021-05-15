@@ -1,0 +1,48 @@
+name: parentol
+description: parentol app
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  admin: ^0.0.4
+  bubble_overlay: null
+  cupertino_icons: ^1.0.0
+  flutter_numpad_widget: ^0.1.1
+  flutter_svg_provider: null
+  flutter_switch: ^0.1.5
+  fluttertoast: ^7.1.5
+  font_awesome_flutter: ^8.10.0
+  page_transition: ^1.1.7+2
+  path: any
+  percent_indicator: ^2.1.8
+  pin_code_fields: ^6.0.1
+  shared_preferences: ^0.5.12+4
+  weekday_selector: ^0.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+  fonts:
+    - family: ProximaBold
+      fonts:
+        - asset: fonts/Proxima-Bold.otf
+
+    - family: Proxima
+      fonts:
+        - asset: assets/myicons/Myicon.ttf
+    - family: Myicon
+      fonts:
+        - asset: fonts/Proxima-Regular.otf
+dev_dependencies:
+  get: ^3.22.2
+  get_storage: ^1.4.0
+  http: ^0.12.2

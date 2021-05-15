@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427160943270",
+    "firebase_url": "https://parentol.firebaseio.com",
+    "project_id": "parentol",
+    "storage_bucket": "parentol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427160943270:android:42f3c2488832ab41835267",
+        "android_client_info": {
+          "package_name": "com.app.parentol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427160943270-rfq2qc6qrp7jolnio9bk744mtkro7fka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.parentol",
+            "certificate_hash": "f3938c7b94af4ece0fa270fe8bde02332c25c4ad"
+          }
+        },
+        {
+          "client_id": "427160943270-alm1c2g1qbao0p239pctinv21ar21le8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8pGuRgumLBU3kV_232zJzbn_p1bcYEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427160943270-alm1c2g1qbao0p239pctinv21ar21le8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
